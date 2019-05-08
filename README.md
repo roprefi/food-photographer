@@ -1,5 +1,3 @@
-# food-photographer
-Site de portfólio simples para estudo de Bootstrap 4 básico.
 <!doctype html>
 <html lang="PT-br">
   <head>
@@ -102,29 +100,29 @@ Site de portfólio simples para estudo de Bootstrap 4 básico.
 <div class="row">
 <div class="col-lg-4 col-sm-6">
 		<div class="thumbnail foto">
-			<img src="./imgs/comida-1.jpg">
+			<img src="comida-1.jpg">
 		</div> 
 	</div>
 	<div class="col-lg-4 col-sm-6">
 		<div class="thumbnail foto">
-			<img src="./imgs/comida-2.jpg">
-		</div> 
-	</div>
-
-	<div class="col-lg-4 col-sm-6">
-		<div class="thumbnail foto">
-			<img src="./imgs/comida-4.jpg">
-		</div> 
-	</div>
-	<div class="col-lg-4 col-sm-6">
-		<div class="thumbnail foto">
-			<img src="./imgs/comida-5.jpg">
+			<img src="comida-2.jpg">
 		</div> 
 	</div>
 
 	<div class="col-lg-4 col-sm-6">
 		<div class="thumbnail foto">
-			<img src="./imgs/comida-7.jpg">
+			<img src="comida-4.jpg">
+		</div> 
+	</div>
+	<div class="col-lg-4 col-sm-6">
+		<div class="thumbnail foto">
+			<img src="comida-5.jpg">
+		</div> 
+	</div>
+
+	<div class="col-lg-4 col-sm-6">
+		<div class="thumbnail foto">
+			<img src="comida-7.jpg">
 		</div> 
 	</div>
 	<div class="col-lg-4 col-sm-6">
