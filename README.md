@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="PT-br">
   <head>
     <meta charset="utf-8">
@@ -29,9 +28,7 @@
 	margin: 1rem 0 1rem 0;
 	padding: 1rem;
 	align-items: center;
-
-}
-
+	    }
  footer {
  	padding-bottom: 0;
  	margin-bottom: 0;
