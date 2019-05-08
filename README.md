@@ -4,40 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <style type="text/css">
-    .jumbotron {
-    	flex-direction: column;
-    	justify-content: center;	
-    }
-    .navbar-nav {
-    	flex-direction: row;
-    }
-    .topo {
-    	margin-top: 1.5rem;
-    	padding-top: 1.5rem;
-    }
-    h1 {
-    	font-size: 4rem;
-    	font-weight: lighter;
-    }
-    img {
- 	width: 100%;
-    }
-    div .foto {
-	border: 2px solid grey;
-	margin: 1rem 0 1rem 0;
-	padding: 1rem;
-	align-items: center;
-	    }
- footer {
- 	padding-bottom: 0;
- 	margin-bottom: 0;
- 	background-color: grey;
- 	height: 3rem;
- 	text-align: center;
- }
-    </style>
-    <title>Laura Silva - Food Photographer</title>
+   <title>Laura Silva - Food Photographer</title>
   </head>
   <body>
 
