@@ -1,46 +1,29 @@
 <!doctype html>
 <html lang="PT-br">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-
     <style type="text/css">
-
-
     .jumbotron {
     	flex-direction: column;
-    	justify-content: center;
-
-
-    	
+    	justify-content: center;	
     }
-
     .navbar-nav {
     	flex-direction: row;
     }
-
     .topo {
     	margin-top: 1.5rem;
     	padding-top: 1.5rem;
     }
-
     h1 {
     	font-size: 4rem;
     	font-weight: lighter;
     }
-
     img {
  	width: 100%;
-
-
     }
-
-
     div .foto {
 	border: 2px solid grey;
 	margin: 1rem 0 1rem 0;
@@ -56,9 +39,7 @@
  	height: 3rem;
  	text-align: center;
  }
-
     </style>
-
     <title>Laura Silva - Food Photographer</title>
   </head>
   <body>
@@ -108,7 +89,6 @@
 			<img src="comida-2.jpg">
 		</div> 
 	</div>
-
 	<div class="col-lg-4 col-sm-6">
 		<div class="thumbnail foto">
 			<img src="comida-4.jpg">
@@ -119,7 +99,6 @@
 			<img src="comida-5.jpg">
 		</div> 
 	</div>
-
 	<div class="col-lg-4 col-sm-6">
 		<div class="thumbnail foto">
 			<img src="comida-7.jpg">
@@ -130,17 +109,13 @@
 			<img src="./imgs/comida-8.jpg">
 		</div> 
 	</div>
-
-
 	</div>
 	</div>
-
 	<footer>
 		<div class="rodape">
 			<p>Layout por Roberta Figliolino | Imagens por Unsplashed</p>
 		</div>
 	</footer>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
